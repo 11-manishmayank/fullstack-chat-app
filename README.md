@@ -9,3 +9,11 @@ Highlights:
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
 - ⏳ And much more!
+
+![alt text](login-page.jpg)
+
+![alt text](main-page-2.jpg)
+
+![alt text](profile-page.jpg)
+
+![alt text](settings-page.jpg)
